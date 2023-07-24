@@ -1,0 +1,19 @@
+{
+  "name": "@kevynlopes/hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevynlopes/kevynlopes-hooks.git"
+  },
+  "author": "kevynlopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevynlopes/kevynlopes-hooks/issues"
+  },
+  "homepage": "https://github.com/kevynlopes/kevynlopes-hooks#readme"
+}
